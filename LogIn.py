@@ -58,7 +58,9 @@ with col1:
                 
     ### How it Works?
     1. Share your Academic Background and Interests
-    2. 
+    2. Share your Career Goals
+    3. Learn about Potential Careers
+    4. Learn the necessary skills needed for these Careers
     """)
 
 with col2:
